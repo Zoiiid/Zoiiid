@@ -6,5 +6,5 @@
   - Java (a little bit)
 - Interested in Cyber Security 🔐
   - Penetration Testing
-  - Privilege Escelation
+  - Privilege Escalation
   - OWASP Top 10 
